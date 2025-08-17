@@ -7,7 +7,7 @@
 
 Data Analyst with 6 years of experience in insurance | Power BI · SQL · Tableau  
 
-🎨 Portfolio: https://www.datascienceportfol.io/jevaughnnewman
+🎨 Portfolio: https://jevaughnnewman.github.io/portfolio/
 
 Let’s connect: [LinkedIn](https://linkedin.com/in/jevaughnnewman)  
 </p>
