@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="LinkedIn Fraud Analyst Banner.png" alt="Risk & Fraud Analytics Banner">
+  <img src="LinkedIn Risk Analyst Banner.png" alt="Risk & Fraud Analytics Banner">
 </p>
 
 # Hey, I’m Jevaughn Newman 👋
